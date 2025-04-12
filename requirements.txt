@@ -1,0 +1,4 @@
+streamlit
+watchdog          # Optional: for future file monitoring
+astor
+langchain-community
