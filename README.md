@@ -14,12 +14,6 @@
 
 ---
 
-## 📸 Screenshot
-
-Coming soon (once you complete the final UI polish)
-
----
-
 ## 🚀 Quickstart
 
 ```bash
